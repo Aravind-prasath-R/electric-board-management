@@ -1,0 +1,7 @@
+# Run these commands after creating the GitHub repository:
+
+git remote add origin https://github.com/Aravind-prasath-R/electric-board-management.git
+git branch -M main
+git push -u origin main
+
+# Replace Aravind-prasath-R with your actual GitHub username

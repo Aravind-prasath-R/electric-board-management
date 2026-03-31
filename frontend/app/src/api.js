@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // API base URL - change this for production deployment
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:8000/';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://electric-board-management.onrender.com';
 
 // Create axios instance
 const api = axios.create({
